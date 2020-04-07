@@ -3,4 +3,4 @@ R Script approaches of methodology related to flood event management.
 
 Data samples available in "data" folder.
 
-geovalidations script pending
+validation approaches included indicatively.
